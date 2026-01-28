@@ -1,0 +1,9 @@
+{
+  "translations": {
+    "app": "Sitzungen & Beschlüsse",
+    "meetings": "Meetings",
+    "agenda": "Agenda",
+    "decisions": "Decisions"
+  },
+  "pluralForm": "nplurals=2; plural=(n != 1);"
+}
